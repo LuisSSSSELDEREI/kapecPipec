@@ -15,3 +15,5 @@ _____
 МАССИВЫ - https://github.com/LuisSSSSELDEREI/kapecPipec/tree/main/masivi
 _____
 coderun - ну он в main че сыллку то оставлять
+_____
+УМЛЛЛЛ - https://github.com/LuisSSSSELDEREI/kapecPipec/blob/main/umllll.docx
