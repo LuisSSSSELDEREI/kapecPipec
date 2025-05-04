@@ -1,0 +1,5 @@
+Вопросы:
+1: 6
+2: 2
+3: Ошибка индексации (выход за пределы) System.IndexOutOfRangeException:
+4: nums[2][1]
