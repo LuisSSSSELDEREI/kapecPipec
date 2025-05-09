@@ -67,7 +67,7 @@
   - .NET Framework 4.8
   - .NET Core
   - ADO.NET
-  - Access Database Engine
+
 
 ---
 
@@ -75,8 +75,7 @@
 
 1. **Требования:**
    - [Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/community/)
-   - .NET 8.0 SDK
-   - AccessDatabaseEngine_X64 (для работы с БД)
+   - .NET 4.8 SDK
 
 2. **Инструкция:**
 ```bash
