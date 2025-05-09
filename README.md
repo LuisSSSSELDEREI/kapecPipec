@@ -66,7 +66,6 @@
 - **Технологический стек:**
   - .NET Framework 4.8
   - .NET Core
-  - ADO.NET
 
 
 ---
